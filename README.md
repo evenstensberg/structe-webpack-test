@@ -2,4 +2,4 @@
 
 ## App folder - Application
 
-## Tooling folder - all dependencies and configurations
+## Tooling folder - all dependencies and configuration
